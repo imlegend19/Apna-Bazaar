@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "432459785873",
+    "firebase_url": "https://bazaar-apna.firebaseio.com",
+    "project_id": "bazaar-apna",
+    "storage_bucket": "bazaar-apna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432459785873:android:05af9f9157d53d18",
+        "android_client_info": {
+          "package_name": "com.cmt.apnabazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432459785873-18oocuvg1g5u2f62vclmd34iknhce0en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cmt.apnabazaar",
+            "certificate_hash": "bc7bd3347ac9cd90ebe93a94044f531ef3c1a856"
+          }
+        },
+        {
+          "client_id": "432459785873-otm9bf0plfktokupp6p3n9rekjj0elnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ukQh5PgUWszNI4x9_PkpNnciJBQUE4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432459785873-otm9bf0plfktokupp6p3n9rekjj0elnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

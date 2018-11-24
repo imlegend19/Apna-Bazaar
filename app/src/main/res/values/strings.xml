@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Apna Bazaar</string>
+    <string name="title_activity_main">Apna Bazaar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_principal">Principal Amount ₹</string>
+    <string name="hint_interest">Interest rate per Year %</string>
+    <string name="hint_years">How Many Years</string>
+    <string name="hint_emi">EMI ₹</string>
+    <string name="hint_interest_total">Total Interest for Loan ₹</string>
+</resources>
